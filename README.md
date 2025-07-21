@@ -20,12 +20,12 @@
 ### 程序组件
 
 1. **主程序**
-   - `INSPMUPD.cbl` - 保费支付处理批处理程序
+   - `INSPMUPD_EN.cbl` - 保费支付处理批处理程序
 
 2. **子程序**
    - `INSPOLVD.cbl` - 保单验证子程序
    - `INSPMINS.cbl` - 支付记录插入子程序
-   - `INSPMLOG.cbl` - 日志记录子程序
+   - `INSPMLOG_EN.cbl` - 日志记录子程序
 
 ### 文件结构
 
